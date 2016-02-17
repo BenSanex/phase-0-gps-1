@@ -9,3 +9,5 @@ git status
 [Google](www.google.com)
 
 <www.google.com>
+
+Conflicting thing
